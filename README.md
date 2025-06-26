@@ -25,4 +25,4 @@ npm run build
 ## Contact
 
 - Email: rjbhullar28@gmail.com
-- LinkedIn: [rajdeep-bhullar](https://linkedin.com/in/rajdeep-bhullar)
+- LinkedIn: [Rajdeep Bhullar](https://linkedin.com/in/rajdeepbhullar)
